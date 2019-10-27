@@ -1,0 +1,4 @@
+paddlepaddle-gpu
+opencv-python
+scikit-image
+numpy
